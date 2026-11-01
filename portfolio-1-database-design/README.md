@@ -116,3 +116,6 @@ PROBLEM ENCOUNTERED: On my first attempt to run an automated setup script for th
 WHAT I WOULD IMPROVE: The balance column is stored directly and the sample balances are not reconciled with the sample transactions. In a real system I would keep the two consistent through transaction processing, which I plan to look at in the transactions portfolio. I would also add support for joint accounts using a separate linking table, and add indexes once I start optimising my queries.
 
 *Use of AI.* I used an AI assistant to help draft the SQL, the commands and the README. I ran every command myself, checked the output against what I expected, and corrected errors as they came up.]
+## ER Diagram
+
+diagrams/er-diagram.png
