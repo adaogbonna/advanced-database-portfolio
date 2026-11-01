@@ -119,3 +119,7 @@ WHAT I WOULD IMPROVE: The balance column is stored directly and the sample balan
 ## ER Diagram
 
 diagrams/er-diagram.png
+
+## ER Diagram
+
+diagrams/er-diagram.png
