@@ -2,7 +2,8 @@
 
 ## Objective
 
-This portfolio demonstrates query processing and optimisation using the NovaTrust Digital Bank PostgreSQL database. The transaction table was expanded with 50,000 synthetic records, increasing the total number of transactions from 12 to 50,012 so that query performance could be tested on a larger dataset.
+My approach to this portfolio was influenced by my previous experience with data analysis, control testing and exception analysis. In that work, analysing system-generated data was useful for identifying exceptions and reviewing control effectiveness. 
+For the NovaTrust case study, I applied a similar analytical approach by using SQL execution plans to understand how PostgreSQL processed transaction queries and then testing whether appropriate indexes improved query performance.
 
 ## Experiment 1 - Transaction Description Search
 

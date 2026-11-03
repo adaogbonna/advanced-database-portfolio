@@ -9,8 +9,10 @@ NovaTrust Digital Bank (fictional).
 
 ## 1. Case Study
 
-NovaTrust Digital Bank is a fictional digital bank. It keeps records of customers, their accounts, the branches that maintain them, and the transactions and transfers made on those accounts. 
-The database supports deposits, withdrawals and transfers between accounts, and lets staff and auditors review transaction history. 
+NovaTrust Digital Bank is a fictional digital banking platform used to demonstrate the design and implementation of a relational database. The system maintains customer, account, branch, transaction and transfer records and supports common banking operations such as deposits, withdrawals and transfers.
+I selected a banking case study because it allows me to relate database design to areas I have encountered professionally, particularly data analysis, control testing and exception analysis. 
+My professional experience has involved analysing system-generated information and identifying exceptions during control reviews. I therefore wanted the database to support not only transaction processing, but also structured querying and analysis of transaction records.
+
 NOTE : All data in this repository is synthetic. No real customer, bank or employer data is used.
 
 ## 2. Business Rules
