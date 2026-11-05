@@ -15,6 +15,15 @@ My professional experience has involved analysing system-generated information a
 
 NOTE : All data in this repository is synthetic. No real customer, bank or employer data is used.
 
+### Users of the Database
+
+The database is intended to support the following users:
+
+- **Customers**, who own accounts and initiate deposits, withdrawals and transfers through the banking platform.
+- **Bank operations staff**, who maintain authorised customer and account information and support transaction processing.
+- **Database and system administrators**, who manage the database environment and maintain its availability.
+- **Control and audit personnel**, who review transaction records, account activity and control exceptions.
+
 ## 2. Business Rules
 
 | ID | Rule |
