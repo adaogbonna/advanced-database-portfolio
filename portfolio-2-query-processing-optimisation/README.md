@@ -2,7 +2,7 @@
 
 ## Objective
 
-My approach to this portfolio was influenced by my previous experience with data analysis, control testing and exception analysis. In that work, analysing system-generated data was useful for identifying exceptions and reviewing control effectiveness. 
+My approach to this portfolio was influenced by my work experience with data analysis, control testing and exception analysis. In my work, analysing system-generated data was useful for identifying exceptions and reviewing control effectiveness. 
 For the NovaTrust case study, I applied a similar analytical approach by using SQL execution plans to understand how PostgreSQL processed transaction queries and then testing whether appropriate indexes improved query performance.
 
 ## Experiment 1 - Transaction Description Search
