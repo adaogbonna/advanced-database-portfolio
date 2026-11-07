@@ -124,8 +124,6 @@ My choice of audit events for the NoSQL implementation was influenced by my prev
 
 This made audit events a useful extension of the NovaTrust case study because they allow different types of technical and control-related activity to be represented without changing the core banking transaction model.
 
-The NovaTrust implementation remains entirely fictional and does not reproduce audit logs, configurations, user accounts or other information from any organisation where I have worked.
-
 ## 9. Evidence
 
 The following files provide evidence of the implementation:
@@ -139,5 +137,3 @@ The following files provide evidence of the implementation:
 This portfolio demonstrated how a document-oriented NoSQL database can complement a relational banking database.
 
 The exercise showed that PostgreSQL is suitable for highly structured financial information and transaction processing, while MongoDB provides flexibility for audit events whose metadata varies according to the type of activity being recorded.
-
-The MongoDB implementation therefore extends the NovaTrust case study rather than duplicating the relational database created in the earlier portfolios.
