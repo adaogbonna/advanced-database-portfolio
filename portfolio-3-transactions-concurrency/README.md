@@ -48,4 +48,3 @@ This shows that Session B could not read Session A's uncommitted change (no dirt
 
 ## Limitations
 - The two-session tests were run by hand, so they are evidenced by screenshots, not by a single log file.
-- This portfolio shows locking and read isolation at the default level. It does not compare other isolation levels.
