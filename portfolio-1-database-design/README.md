@@ -5,7 +5,7 @@ NovaTrust Digital Bank (fictional).
 
 **Course:** MIT 8103 Advanced Database Systems
 **DBMS:** PostgreSQL 17 (local installation)
-**Case study:** NovaTrust Digital Bank (fictional)
+**Case study:** NovaTrust Digital Bank
 
 ## 1. Case Study
 
@@ -13,7 +13,7 @@ NovaTrust Digital Bank is a fictional digital banking platform used to demonstra
 I selected a banking case study because it allows me to relate database design to areas I have encountered professionally, particularly data analysis, control testing and exception analysis. 
 My professional experience has involved analysing system-generated information and identifying exceptions during control reviews. I therefore wanted the database to support not only transaction processing, but also structured querying and analysis of transaction records.
 
-NOTE : All data in this repository is synthetic. No real customer, bank or employer data is used.
+NOTE : All data in this repository is fictional. No real customer or bank data is used.
 
 ### Users of the Database
 
@@ -126,7 +126,7 @@ Foreign keys:
 PROBLEM ENCOUNTERED: On my first attempt to run an automated setup script for the installation of git and pgadmin on my pc, i kept getting errors ecause the file always seemed to be empty after saving it on my pc. I fixed this by manually running the commands directly on Powershell instead which meant i had to understand each step.
 WHAT I WOULD IMPROVE: The balance column is stored directly and the sample balances are not reconciled with the sample transactions. In a real system I would keep the two consistent through transaction processing, which I plan to look at in the transactions portfolio. I would also add support for joint accounts using a separate linking table, and add indexes once I start optimising my queries.
 
-*Use of AI.* I used an AI assistant to help draft the SQL, the commands and the README. I ran every command myself, checked the output against what I expected, and corrected errors as they came up.]
+*Use of AI.* I used an AI assistant to help draft the SQL, the commands and the README. **I ran every command myself, checked the output against what I expected, and corrected errors as they came up**.]
 
 ## ER Diagram
 diagrams/er-diagram.png
